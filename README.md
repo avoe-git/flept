@@ -6,6 +6,12 @@
 
 ## Libraries
 
+<iframe height="300" style="width: 100%;" scrolling="no" title="Progress Bar - FLEPT by avoe.dev" src="https://codepen.io/avoe/embed/MWNOjoY?default-tab=result&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/avoe/pen/MWNOjoY">
+  Progress Bar - FLEPT by avoe.dev</a> by avoe (<a href="https://codepen.io/avoe">@avoe</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 <section style=":root {
   --color-white: #fff;
   --color-black: #333;
