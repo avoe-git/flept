@@ -1,3 +1,5 @@
-# Flept by avoe.dev
+# Flept by avoe.dev - Development branch
 
-No any readme.md configured yet :(
+## Welcome to development branch!
+>[!NOTE]
+> This branch was created from main
