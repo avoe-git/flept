@@ -34,17 +34,26 @@ export default {
 
 <style scoped>
 .gif-container {
+  font-family: Outfit, sans-serif;
+  font-weight: 600;
   text-align: center;
   margin: 20px;
   background-color: #d3d3d3; /* Lighter background color */
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); */
+  box-shadow: 
+    0 0 5px #ffffff,     /* Inner glow */
+    0 0 10px #ffffff,    /* Medium glow */
+    /*0 0 20px #ffffff;     Larger glow */
+    0 0 30px #ffffff;    /*Outer glow */
+    /* 0 0 40px #ffffff;    More intense glow */
+    /*0 0 50px #ffffff;     Strongest glow */
 }
 
 .gif {
   width: 100px; /* Adjust the width */
-  height: 100px; /* Adjust the height */
+  height: 100px; /* Adjust the he@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');ight */
 }
 
 .gif-text {
@@ -59,6 +68,8 @@ export default {
 }
 
 .btn {
+  font-family: Outfit, serif;
+  font-weight: 300;
   background-color: #e3ebe3; /* Green button */
   color: rgb(12, 12, 12);
   border: none;
